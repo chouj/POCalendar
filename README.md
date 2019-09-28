@@ -1,9 +1,7 @@
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrW68CzYP3ez04I8?backgroundColor=blue&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
-
 # POCalendar
 A (Physical) Oceanography Calendar based on Airtable
 
-## [HTML](https://airtable.com/shrW68CzYP3ez04I8/tbl4cC2OM65kinAka) | [iCal](https://airtable.com/shrW68CzYP3ez04I8/iCal)
+## Address: [HTML](https://airtable.com/shrW68CzYP3ez04I8/tbl4cC2OM65kinAka) | [iCal](https://airtable.com/shrW68CzYP3ez04I8/iCal)
 
 ### Why I create and maintain a public calendar while everyone has his/her own ?
 
