@@ -16,13 +16,13 @@ A (Physical) Oceanography Calendar based on Airtable
 - Media / Press chasing scientific achievements and academic events.
 - Those who cares about or study history of ocean sciences.
 
-### Special Feature
+### Special Features
 
 - Associated deadlines are marked, not only events.
 - Events can be submitted by everyone via [here](https://airtable.com/shrIHe7ABy8otiAvA).
-- enents with livestream are labeled with different color.
+- Events with livestream capability are labeled with different color.
 
-### Content sources
+### Content Sources
 
 - [海洋知圈](https://mp.sohu.com/profile?xpt=c29odW1wOGh2a2NnQHNvaHUuY29t&_f=index_pagemp_1&spm=smpc.content.author.2.15680372448367pEIA27)
 - [Conferences and Meetings on Oceanography](https://www.conference-service.com/conferences/oceanography.html)
