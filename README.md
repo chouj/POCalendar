@@ -20,6 +20,7 @@ A (Physical) Oceanography Calendar based on Airtable
 
 - Associated deadlines are marked, not only events.
 - Events can be submitted by everyone via [here](https://airtable.com/shrIHe7ABy8otiAvA).
+- enents with livestream are labeled with different color.
 
 ### Content sources
 
