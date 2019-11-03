@@ -28,6 +28,8 @@ A (Physical) Oceanography Calendar based on Airtable
 - [Conferences and Meetings on Oceanography](https://www.conference-service.com/conferences/oceanography.html)
 - [https://usclivar.org/us-clivar-newsgrams](https://usclivar.org/us-clivar-newsgrams)
 - [https://www.solas-int.org/activities/conferences.html](https://www.solas-int.org/activities/conferences.html)
+- [https://www.egu.eu/meetings/calendar/](https://www.egu.eu/meetings/calendar/)
+- [https://www.jcomm.info/index.php?option=com_oe&task=eventCalendar&start=2021-03-01&end=2021-06-30&headGroupID=78](https://www.jcomm.info/index.php?option=com_oe&task=eventCalendar&start=2021-03-01&end=2021-06-30&headGroupID=78)
 
 ### Notice
 
@@ -38,6 +40,10 @@ A (Physical) Oceanography Calendar based on Airtable
 - Teamwork and cooperation will make its management a lot easier. Positive feedback requires collaboration.
 - You may ask for being an administrator to co-manage this calendar or simply submit your event [here](https://airtable.com/shrIHe7ABy8otiAvA).
 - Since @AirTable costs a lot, please use my [referral link](https://airtable.com/invite/r/YrVlbTah) to register. 
+
+### Collaborators
+
+1. [@liutongya](https://github.com/liutongya)
 
 ### 中文简介 (Introduction in chinese)
 
