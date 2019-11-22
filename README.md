@@ -1,7 +1,7 @@
 # POCalendar
 A (Physical) Oceanography Calendar based on Airtable
 
-## Address: [HTML](https://airtable.com/shrW68CzYP3ez04I8/tbl4cC2OM65kinAka) | [iCal](https://airtable.com/shrW68CzYP3ez04I8/iCal)
+## Address: [HTML](https://airtable.com/shrc9MSotEPF7zYAv) | [iCal](https://airtable.com/shrW68CzYP3ez04I8/iCal)
 
 ### Why I create and maintain a public calendar while everyone has his/her own ?
 
@@ -44,6 +44,7 @@ A (Physical) Oceanography Calendar based on Airtable
 ### Collaborators
 
 1. [@liutongya](https://github.com/liutongya)
+2. [@LijoDXL](https://github.com/LijoDXL)
 
 ### 中文简介 (Introduction in chinese)
 
