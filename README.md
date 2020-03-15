@@ -1,7 +1,7 @@
 # POCalendar
-A (Physical) Oceanography Calendar based on Airtable
+A (Physical) Oceanography Calendar based on <strike>Airtable</strike> [Notion](https://notion.so).
 
-## Address: [HTML](https://airtable.com/shrc9MSotEPF7zYAv) | [iCal](https://airtable.com/shrW68CzYP3ez04I8/iCal)
+## Address: [Here](https://www.notion.so/pocalendar/Calendar-for-Physical-Oceanographer-814d0e162904439a932fac0b4ee9b87a)
 
 ### Why I create and maintain a public calendar while everyone has his/her own ?
 
@@ -19,7 +19,7 @@ A (Physical) Oceanography Calendar based on Airtable
 ### Special Features
 
 - Associated deadlines are marked, not only events.
-- Events can be submitted by everyone via [here](https://airtable.com/shrIHe7ABy8otiAvA).
+- - There are "Event list" in which you can sort according to certain `Property` and the "Calendar view" is absolutely instinctive and convenient.
 - Events with livestream capability are labeled with different color.
 
 ### Content Sources
@@ -30,25 +30,25 @@ A (Physical) Oceanography Calendar based on Airtable
 - [https://www.solas-int.org/activities/conferences.html](https://www.solas-int.org/activities/conferences.html)
 - [https://www.egu.eu/meetings/calendar/](https://www.egu.eu/meetings/calendar/)
 - [https://www.jcomm.info/index.php?option=com_oe&task=eventCalendar&start=2021-03-01&end=2021-06-30&headGroupID=78](https://www.jcomm.info/index.php?option=com_oe&task=eventCalendar&start=2021-03-01&end=2021-06-30&headGroupID=78)
+- [GEOMAR events](https://events.geomar.de/)
+- [North Pacific Marine Science Organization meetings](https://meetings.pices.int/meetings)
 
 ### Notice
 
 - Time zone issue exists. Please pay attention to. Any suggestions about this are appreciated.
+- Any adjustment about event time, for example, deadline getting extended, would not be modified/revised accordingly, if I might not be aware of it.
 
 ### Seeking collaborators and financial support.
 
-- Teamwork and cooperation will make its management a lot easier. Positive feedback requires collaboration.
-- You may ask for being an administrator to co-manage this calendar or simply submit your event [here](https://airtable.com/shrIHe7ABy8otiAvA).
-- Since @AirTable costs a lot, please use my [referral link](https://airtable.com/invite/r/YrVlbTah) to register. 
-
-### Collaborators
-
-1. [@liutongya](https://github.com/liutongya)
-2. [@LijoDXL](https://github.com/LijoDXL)
+Teamwork and cooperation will make its management a lot easier. However, as defined by Notion, more collaborators, more charges. Thus, please use my [referral link](https://www.notion.so/?r=d94e7c7a384f486185f8296abe5ea15b) to register (You will get $10 credit while I will get $5).
 
 ### 中文简介 (Introduction in chinese)
 
 [(物理)海洋领域日历](https://xuchi.name/calendar-for-oceanographer/)
+
+### Changelog
+
+- Moved from [Airtable](https://airtable.com/shrc9MSotEPF7zYAv/tbl4cC2OM65kinAka/viwxx55XjBsRGEeIj?blocks=hide&date=2020-04-17&mode=month) to Notion on Mar 11, 2020. [Airtable](https://airtable.com/shrc9MSotEPF7zYAv/tbl4cC2OM65kinAka/viwxx55XjBsRGEeIj?blocks=hide&date=2020-04-17&mode=month) is such an elegante tool but simply costs too much for full features.
 
 #### Buy me a cup of coffee
 
